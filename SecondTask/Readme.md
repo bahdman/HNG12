@@ -11,9 +11,13 @@ Response : "Api is Active!!!"
 Status Code: 200
 
 Get interesting fact
+
 Method : GET
+
 url : baseUrl/api/classify-number?number=number
-response{
+
+response
+{
     "number": number,
 
     "is_prime": bool,
@@ -26,14 +30,18 @@ response{
 
     "fun_fact": "An interesing fact" //gotten from the numbers API
 }
+
 Status Code : 200
 
 Bad Response
-Response{
+
+Response
+{
     "number": "alphabet",
 
     "error": true
 }
+
 Status Code : 400
 
 
