@@ -18,6 +18,7 @@ url : baseUrl/api/classify-number?number=number
 
 response
 {
+    
     "number": number,
 
     "is_prime": bool,
@@ -37,6 +38,7 @@ Bad Response
 
 Response
 {
+
     "number": "alphabet",
 
     "error": true
