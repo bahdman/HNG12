@@ -1,8 +1,7 @@
 .vscode
-/FirstTask/src/obj
-/FirstTask/src/Properties
-/FirstTask/src/bin
-*/Properties
+*obj
+*Properties
+*bin
 *.http
 *.sln
 *.zip
