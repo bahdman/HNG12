@@ -2,6 +2,7 @@
 *obj
 *Properties
 *bin
+*publish
 *.http
 *.sln
 *.zip
